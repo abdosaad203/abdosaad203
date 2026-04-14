@@ -1,7 +1,7 @@
 # Hi there, I'm Abdelrahman Saad 👋 👨‍💻
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdosaad203&label=Profile%20views&color=0e75b6&style=flat" alt="abdosaad203" />
+  <img src="https://komarev.com/ghpvc/?username=abdosaad203&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 🚀 About Me
@@ -36,14 +36,18 @@ I am a **DevOps Engineer** dedicated to automating infrastructure and optimizing
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdosaad203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosaad203&layout=compact&theme=tokyonight&hide=html,css,javascript" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdosaad203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosaad203&layout=compact&theme=tokyonight&hide=html,css,javascript" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelrahmansaad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmansaad0" height="30" width="40" /></a>
-<a href="mailto:abdosaad4900@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abdosaad4900" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahmansaad0" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdosaad4900@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
