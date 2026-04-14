@@ -34,14 +34,6 @@ I am a **DevOps Engineer** dedicated to automating infrastructure and optimizing
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdosaad203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosaad203&layout=compact&theme=tokyonight&hide=html,css,javascript" />
-</p>
-
----
-
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahmansaad0" target="blank">
